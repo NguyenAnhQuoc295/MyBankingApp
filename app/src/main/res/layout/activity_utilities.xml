@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center_horizontal"
+    android:background="#f0f0f0">
+
+    <TextView
+        android:text="TIỆN ÍCH THANH TOÁN"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#333"
+        android:layout_marginBottom="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnElectricity"
+        android:text="Thanh toán Tiền Điện"
+        android:drawableLeft="@android:drawable/ic_menu_always_landscape_portrait"
+        android:padding="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnWater"
+        android:text="Thanh toán Tiền Nước"
+        android:drawableLeft="@android:drawable/ic_menu_always_landscape_portrait"
+        android:padding="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnInternet"
+        android:text="Thanh toán Internet"
+        android:drawableLeft="@android:drawable/ic_menu_always_landscape_portrait"
+        android:padding="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnBack"
+        android:text="Quay lại trang chủ"
+        android:backgroundTint="#9E9E9E"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

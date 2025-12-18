@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039762563710",
+    "project_id": "mybankingapp2-d4edb",
+    "storage_bucket": "mybankingapp2-d4edb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039762563710:android:a712142843ffd431bbae2f",
+        "android_client_info": {
+          "package_name": "com.anhquoc.mybankingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOhYKX-v3CyYRrmLT6joox7smw0smgdOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
